@@ -23,26 +23,26 @@ Honors and Achievements
 ----------------
 * **Phi Tau Phi Scholastic Honor Society**, honorary member, 2017.
 * **Outstanding Graduate Award**, 2017.
+* **Professional Course Achievement Award**, 2015.
 * **Professional Course Achievement Award**, 2014.
 * **Professional Course Achievement Award**, 2013.
 
 
 Publications:
 ----------------
-## Conference Papers 123
+### Conference Papers:
 1. P.-W. Tsai, N. Xia, C.-Y. Hsu, <span style="border-bottom:1px solid black;">**S.-W. Lee**</span>, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the 15th International Symposium on Pervasive Systems, Algorithms and Networks, 2018. *(Accepted)*
 
-Poster
-----------------
+### Poster:
 1. <span style="border-bottom:1px solid black;">**S.-W. Lee**</span>,  P.-W. Tsai, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, "SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT," CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018. 
 
-Joined Project
+Joined International Project
 ----------------
-* International
 1. OF@TEIN+: Open/Federated Playground for Future Networks (Aug. 2017~May. 2019; Asi@Connect-17-094, European Union)
 
 Reference Links
 ----------------
 * Linkedin: <a href="https://www.linkedin.com/in/%E6%9B%B8%E7%B7%AF-%E6%9D%8E-457471152/" target="_blank">https://www.linkedin.com/in/書緯-李-457471152/</a>
 * ITLab: <a href="https://itlab.ee.ncku.edu.tw/" target="_blank">https://itlab.ee.ncku.edu.tw/</a>
+* OF@TEIN+: <a href="https://github.com/OFTEIN-NET/OFTEIN-Plus" target="_blank">https://github.com/OFTEIN-NET/OFTEIN-Plus</a>
 
