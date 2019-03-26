@@ -9,7 +9,16 @@ I'm a graduate student studying for master degree in Institute of Computer and C
 Education
 ----------------
 * M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (Sep. 2017 ~ Current)
-* B.S. in Department of Computer Science and Engineering, National Sun Yat-Sen University, Taiwan. (Sep. 2013 ~ Jun. 2017)
+* B.S. in Department of Computer Science and Engineering, National Sun Yat-Sen University, Taiwan. (Sep. 2013 ~ June. 2017)
+
+
+Experience
+----------------
+* Player of OF@TEIN+ project (Sep. 2018 ~ Current)
+* Operator of Network Operation Center of Dep. of EE, NCKU (Aug. 2018 ~ Current)
+* Local Operator of OF@TEIN+ project (Nov. 2017 ~ Current)
+* Member of Network Management Group of Dep. of EE., NCKU (Sep. 2017 ~ Current)
+* Instructor of Information Society of Kaohsiung Girls' Senior High School (Sep. 2016 ~ June. 2017)
 
 
 Research Areas
