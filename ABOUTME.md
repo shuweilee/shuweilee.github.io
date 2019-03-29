@@ -3,7 +3,10 @@ Shu-Wei Lee | MS | National Cheng Kung University | ![My Email Address](images/m
 
 About Me
 ----------------
-I'm a graduate student studying for master degree in Institute of Computer and Communication Engineering, National Cheng Kung University. My main research fields include Software-Defined Networking, Network Function Virtualization, and Network Management. I'm enthusiastic about learning any IT related skills as well. Nice to meet you.
+I'm a graduate student studying for master degree in Institute of Computer and Communication Engineering, National Cheng Kung University.  
+My main research fields include Software-Defined Networking, Network Function Virtualization, and Network Management.  
+Beside networking, I'm enthusiastic about learning any IT related skills as well.
+Nice to meet you.
 
 
 Education
